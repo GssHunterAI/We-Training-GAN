@@ -14,5 +14,7 @@ Here are some information that you need to know :
 
 5- DO NOT forget to use the GPU while running the note book
 
+6- To see the final resault after the training run the cell with the code : model.plot_imgs()
+
 
 Feel free to report any issues or to give your opinion about it :)
